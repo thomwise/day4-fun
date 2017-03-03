@@ -1,0 +1,39 @@
+.topleft-block {
+  background-color: #000;
+  height: 80px;
+  margin: 20px 0 0 0;
+}
+
+.topright-blocks {
+  background-color: #000;
+  height: 30px;
+  margin: 40px 0 0 30px;
+}
+
+.big-block {
+  background-color: #000;
+  height: 500px;
+  margin: 20px 0 20px 0;
+}
+
+.tiny-punk-block {
+  background-color: #000;
+  height: 30px;
+  margin: 20px 1010px 0 0;
+}
+
+.bottom-block1 {
+  background-color: #000;
+  height: 200px;
+  margin: 20px 0 20px 0;
+}
+
+.bottom-blocks {
+  background-color: #000;
+  height: 200px;
+  margin: 20px 0 20px 48px;
+}
+
+.bottom-row {
+  margin-bottom: 20px;
+}
